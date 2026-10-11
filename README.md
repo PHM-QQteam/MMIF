@@ -40,9 +40,6 @@ College of Mechanical and Vehicle Engineering, Chongqing University, Chongqing 4
 
 **Paper link:** [To be updated](PAPER_LINK)
 
-## MMIF
-
-<img width="4424" height="2179" alt="MMIF framework" src="IMAGE_LINK" />
 
 ## Citation
 
